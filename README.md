@@ -8,7 +8,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -19,7 +19,7 @@
 - :computer: Soy programador competitivo `comprometido con el aprendizaje continuo`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :thinking: Actualmente estoy abierto a un nuevo puesto `job opportunity`.
-- :boom: Puedes Ver mi Portafolio [Mi Portafolio](https://saviel-dev.vercel.app/).
+- :boom: Puedes Ver mi Portafolio <a href="https://saviel-dev.vercel.app/" target="_blank">Mi Portafolio</a>.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> ¡Conectate Conmigo!
