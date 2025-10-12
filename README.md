@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :school: Casi graduado de `Tecnico Superior en Informatica` en el Instituto Universitario de Tenologia Tomas Lander `IUTTOL`).
+- :school: Recien Egresado de `Tecnico Superior en Informatica` en el Instituto Universitario de Tenologia Tomas Lander `IUTTOL`).
 - :technologist: Me encanta usar el software como solución para cada “problema”.
 - :computer: Soy programador competitivo `comprometido con el aprendizaje continuo`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
