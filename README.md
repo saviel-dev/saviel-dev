@@ -17,7 +17,6 @@
 - :school: Recien Egresado de `Tecnico Superior en Informatica` en el Instituto Universitario de Tenologia Tomas Lander `IUTTOL`).
 - :technologist: Me encanta usar el software como solución para cada “problema”.
 - :computer: Soy programador competitivo `comprometido con el aprendizaje continuo`
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :thinking: Actualmente estoy abierto a un nuevo puesto `job opportunity`.
 - :boom: Puedes Ver mi Portafolio <a href="https://julianherrera-dev.vercel.app/" target="_blank">Mi Portafolio</a>.
 <br>
